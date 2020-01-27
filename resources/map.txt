@@ -1,0 +1,8 @@
+FindDaggerRoom	CityChickenRoom	X	LeaveCaveRoom	X
+EmptyCavePath	Find5GoldRoom	CityChickenRoom	CountryChickenRoom	X
+X	X	CityChickenRoom	X	X
+X	X	CityChickenRoom	X	X
+X	EmptyCavePath	StartingRoom	EmptyCavePath	X
+X	X	Find5GoldRoom	X	X
+X	X	EmptyCavePath	X	X
+X	X	CityChickenRoom	X	X
